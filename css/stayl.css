@@ -1,0 +1,568 @@
+.header{
+    width: 100%;
+    /* height: 10vh; */
+    padding-top:40px;
+    background-color: #f2f3f8;
+    text-align: center;
+}
+.header-1{
+    /* display:flex;  */
+    justify-content:space-between;
+}
+
+#logo h1{
+    /* padding-left: 60px; */
+    font-size: 25px;
+    color: #000000;
+    font-weight: 550;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#home ul{
+    /* display: flex; */
+    padding-right: 50px;
+    font-size: 20px;
+    color: #000000;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#home ul i{
+    padding-left: 50px;
+}
+#home li{
+    padding-left: 40px; 
+}
+#foto img{
+    width: 90%;
+}
+.bag{
+    /* display: flex; */
+    background: url("../img/arxa\ fon.png") center/cover;
+    padding-top: 30px;
+}
+#text{
+    padding: 100px;
+}
+#text h1{
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    padding-top: 10px;
+}
+#text p{
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding-top: 20px;
+    line-height: 25px;
+}
+#text a{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 100px;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
+.section-1{
+    padding-top: 50px;
+}
+#main-1 h3{
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#main-1 h1{
+    width: 80%;
+    margin: 0 auto;
+    font-size: 35px;
+    color: #000000;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+.icons{
+    /* display: flex; */
+    padding-top: 50px;
+}
+#icon{
+    /* padding: 10px; */
+    font-size: 30px;
+    text-align: center;
+}
+#text-2 h1{
+    text-align: center;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#text-2 p{
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#display{
+    /* display: flex; */
+    justify-content: space-evenly;
+}
+.section-2{
+    padding-top: 70px;
+}
+#main-2 h1{
+    font-size: 30px;
+    line-height: 24px;
+    color: #000000;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.img img{
+    width: 250px;
+}
+#main-2 p{
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 20px;
+    font-size: 19px;
+    line-height: 24px;
+    color: #000000;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.foto-1{
+    padding-top:50px;
+    display: flex;
+    width: 97%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.text-3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+   
+    justify-content: space-between;
+    padding-bottom: 50px;
+    font-size: 20px;
+  
+}
+.text-4{
+    text-align: center;
+}
+#Be{
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom:20px;
+    font-size: 30px;
+    color: #000000;
+    font-weight: 500;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#Lorem{
+    width: 80%;
+    margin: 0 auto;
+    font-size: 19px;
+    line-height: 30px;
+    color: #000000;
+    font-weight: 400;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.anom{
+    justify-content: center;
+    padding-top: 30px;
+}
+#input input{
+    width:70%;
+    height: 30px;
+    border: 0;
+    outline: none;
+    background-color: rgba(128, 128, 128, 0.289);
+    text-align: center;
+}
+#btn button{
+    margin-top: 10px;
+    width:30%;
+    height: 30px;
+    background-color: black;
+    color: #fff;
+    margin-left: 10px;
+    outline: none;
+    font-size: 10px;
+}
+.end{
+    height: 180vh;
+    padding-top:60px;
+    margin-top: 30px    ;
+    justify-content: space-around;
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+#shop h1{
+    padding-bottom:10px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#shop p{
+    width:85%;
+    padding-top: 20px;
+    font-size: 18px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+}
+#sitem h1{
+    padding-top: 20px;
+    font-size: 20px;
+    line-height: 32px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sitem ul{
+    font-size: 18px;
+    line-height: 32px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#contact h1{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 32px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#icon0 p{
+    padding-left:10px;
+    font-size: 20px;
+    line-height: 32px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#icon0 i{
+    margin-right:10px ;
+    font-size: 20px;
+    line-height: 32px;
+    color:#d6a650;
+}
+.soon{
+    height:40vh;
+    justify-content: space-around;
+    border-top:3px solid #555555;
+    padding-top: 20px;
+    background-color: #000000;
+    color: rgba(182, 177, 177, 0.398);
+}
+#a1{
+    font-size: 16px;
+    letter-spacing: 2px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    
+    }
+ #a1 p{
+        width: 100%;
+        margin: 0 auto;
+     
+ }
+#a2 ul{
+    width:90%;
+    margin: 0 auto;
+    font-size: 16px;
+    letter-spacing: 2px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#a2 ul li{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+#a3{
+    display: flex;
+}
+#a3 i{
+    padding-left: 20px;
+    font-size:20px;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+#a3 i:hover{
+    color: #fff;
+}
+
+
+
+
+@media only screen and (min-width: 768px) {
+
+
+    .header{
+        height: 10vh;
+    }
+    .header-1{
+        display:flex; 
+    }
+    #home ul{
+        display: flex;
+    }
+    #foto img{
+        width: 650px;
+        padding-top: 0px;
+    }
+    .bag{
+        display: flex;
+    }
+    #logo h1{
+        padding-left: 60px;
+    }
+    #text h1{
+        font-size: 40px;
+        text-align: start;
+    }
+    #text p{
+        width: 450px;
+        font-size: 20px;
+        text-align: start;
+    }
+    #text a{
+        font-size: 25px;
+        display: flex;
+        justify-content: start;
+    }
+    #main-1 h3{
+        font-size: 14px;
+    }
+    #main-1 h1{
+        width: 50%;
+    }
+    .icons{
+        display: flex;
+    }
+    #icon{
+        padding: 10px;
+        text-align: start;
+    }
+    #text-2 p{
+        text-align: start;
+        font-size: 14px;
+        width: 300px;
+    }
+    #text-2 h1{
+        text-align: start;
+        font-size: 14px;
+    }
+    #display{
+        display: flex;
+    }
+    #main-2 h1{
+        font-size: 42px;
+    }
+    #main-2 p{
+        width: 700px;
+    }
+    .img img{
+        width: 350px;
+    }
+    .text-3{
+        text-align: start;
+        display:flex;
+        font-size: 18px;
+    }
+
+    #Be{
+        padding-bottom:20px;
+        font-size: 42px;
+        color: #000000;
+        font-weight: 700;
+        width: 500px;
+        margin: 0 auto;
+    }
+
+    #Lorem{
+        width: 700px;
+        padding-left: 23%;
+        font-size: 19px;
+        line-height: 30px;
+        color: #000000;
+        font-weight: 400;
+        margin: 0 ;
+    }
+    .anom{
+        display:flex;
+        justify-content: center;
+        padding-top: 50px;
+    }
+    #input input{
+        width:300px;
+        height: 30px;
+        text-align: start;
+    }
+    #btn button{
+        margin-top: 0;
+        width:100px;
+        height: 30px;
+        background-color: black;
+        color: #fff;
+        margin-left: 10px;
+        outline: none;
+        font-size: 15px;
+    }
+    
+    .end{
+        display: flex;
+        height: 25vh;
+        padding-top:60px;
+        margin-top: 30px    ;
+        justify-content: space-around;
+        background-color: #000;
+        color: #fff;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;   
+    }
+    #shop h1{
+        padding-top:11px;
+        padding-right:45%;
+        font-size: 20px;
+        letter-spacing: 2px;
+        line-height: 24px;
+        font-weight: 400;
+        font-family:Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+    #shop p{
+        width: 300px;
+        height: 76px;
+        font-size: 14px;
+        line-height: 24px;
+        color: #ffffff;
+        font-weight: 400;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0 ;
+        padding-top:0px;
+    }
+    #sitem h1{
+        padding-top:0px;
+        font-size: 20px;
+        line-height: 32px;
+        color: #ffffff;
+        font-weight: 400;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #sitem ul{
+        font-size: 15px;
+        line-height: 32px;
+        color: #ffffff;
+        font-weight: 400;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #contact h1{
+        padding-top:0px;
+        text-align: start;
+        font-size: 20px;
+        line-height: 32px;
+        color: #ffffff;
+        font-weight: 400;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #icon0{
+        display: flex; 
+    }
+    #icon0 p{
+        font-size: 14px;
+    }
+
+    #icon0 i{
+        font-size: 14px;
+    }
+    .soon{
+        height:5vh;
+        display: flex;
+        justify-content: space-around;
+        padding-top: 20px;
+    }
+    #a2 ul{
+        width: 635px;
+        height: 14px;
+        display: flex;
+        margin: 0;
+    }
+    #a1 p{
+        width:500px;
+        margin: 0;
+    }
+    #a2 ul li{
+        padding-left: 20px;
+        padding-top: 0px;
+    }
+    #a3{
+        padding-right: 20px;
+    }
+    #a3 i{
+        padding-top:0px;
+        padding-left:20px;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
